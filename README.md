@@ -1,4 +1,6 @@
-🏅 Sistema de Gestão das Olimpíadas (SGO)
+🏅 Sistema de Gestão das Olimpíadas (SGO) 
+
+
 📌 Descrição do Projeto
 O Sistema de Gestão das Olimpíadas (SGO) foi projetado para auxiliar na organização e gerenciamento de eventos olímpicos, permitindo o controle completo de competições, atletas, locais, resultados e medalhas.
 O sistema centraliza informações essenciais, garantindo organização, integridade dos dados e cumprimento das regras do evento.
